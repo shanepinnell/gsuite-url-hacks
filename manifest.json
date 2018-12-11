@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
 
-  "name": "GSuite URL Hacks",
-  "description": "Chrome extension to change GSuite URLs for Previewing, creating Templates, or downloading PDFs Edit.",
+  "name": "GSuite URL Hack",
+  "description": "Chrome extension to change GSuite URLs for making Copies, Previewing documents, creating Templates, or downloading PDFs.",
   "version": "1.0",
 
   "browser_action": {
@@ -10,7 +10,7 @@
     "default_popup": "popup.html"
   },
   "permissions": [
-    "activeTab",
-    "storage"
+    "activeTab"
   ]
+
 }
